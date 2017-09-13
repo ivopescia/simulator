@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 11 09:45:51 2017
-
-@author: pescia
-"""
 
 import numpy.random as random
 import csv
